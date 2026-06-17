@@ -42,16 +42,16 @@ Admin manages courses and monitors registrations.
 # Installation Steps
 Install Python.
 Install Django using:
-# pip install django
+ pip install django
 Clone or download the project.
 Navigate to the project folder.
 Run migrations:
-# python manage.py migrate
+ python manage.py migrate
 Start the server:
-# python manage.py runserver
+ python manage.py runserver
 Open browser:
 Plain text
-# http://127.0.0.1:8000/
+ http://127.0.0.1:8000/
 
 # Future Enhancements
 Payment Gateway Integration
